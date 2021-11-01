@@ -1,5 +1,5 @@
 # hack1-QAs
-If you have any question, please use **Github Issue** under this repository.
+If you have any question, please use [**Github Issue**](https://github.com/ntuee-webprogramming/hack1-QAs/issues) under this repository.
 
 # Github Issue Operation Simple Tutorial
 ### 操作流程
