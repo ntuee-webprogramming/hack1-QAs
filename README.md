@@ -1,7 +1,13 @@
 # hack1-QAs
 If you have any question, please use [**Github Issue**](https://github.com/ntuee-webprogramming/hack1-QAs/issues) under this repository.
 
-# Github Issue Operation Simple Tutorial
+## TAs' google meeting rooms
+* 鄭謹譯：https://meet.google.com/gqw-cjsy-mcx
+* 黃世丞：https://meet.google.com/ume-zgrb-upf
+* 皇甫立翔：https://meet.google.com/bhp-xwrr-rrf  (9:30~10:20, 10:40~12:00 available)
+
+
+## Github Issue Operation Simple Tutorial
 ### 操作流程
 
 1. 打開 browser 進入 github，並選取 repository，然後點選 "Issues"
