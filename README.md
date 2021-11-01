@@ -3,6 +3,7 @@ If you have any question, please use [**Github Issue**](https://github.com/ntuee
 
 ## TAs' google meeting rooms
 If you really have questions that cannot be resolved on Github Issue, you can use these google meeting rooms below to ask TA personally and privately. Please wait for TA to accept your access into the meeting room.
+(Please **DO NOT** ask questions on webex!!)
 
 * 鄭謹譯：https://meet.google.com/gqw-cjsy-mcx
 * 黃世丞：https://meet.google.com/ume-zgrb-upf
