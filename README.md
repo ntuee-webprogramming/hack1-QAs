@@ -10,7 +10,7 @@ If you really have questions that cannot be resolved on Github Issue, you can us
 * 🚩  皇甫立翔：https://meet.google.com/bhp-xwrr-rrf  (9:30-10:20, 10:40-12:00 available)
 * 💣  呂承樺：https://meet.google.com/cvo-uyaz-zff  (11:20-12:00 available)
 
-
+## [Demo video](https://youtu.be/mDx4bi-rA-Q)
 ## Github Issue Operation Simple Tutorial
 ### 操作流程
 
