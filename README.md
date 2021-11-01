@@ -1,4 +1,5 @@
 # hack1-QAs
+If you have any question, please use **Github Issue** under this repository.
 
 # Github Issue Operation Simple Tutorial
 ### 操作流程
